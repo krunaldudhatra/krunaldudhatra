@@ -15,8 +15,9 @@
   />
 </p>
 
-- 🌱 I’m currently learning **DSA** - 📫 How to reach me
-**krunaldudhatra04@gmail.com**
+- 🌱 I’m currently learning **DSA**
+  <br>
+-  📫 How to reach me **krunaldudhatra04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
